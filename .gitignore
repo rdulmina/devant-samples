@@ -1,0 +1,5 @@
+.choreo/
+.vscode/
+.history/
+target/
+.DS_Store
